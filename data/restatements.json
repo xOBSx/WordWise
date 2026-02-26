@@ -1,0 +1,302 @@
+[
+    {
+        "id": "rs_001",
+        "original": "Despite its seemingly haphazard arrangement, the city's public transportation network is astonishingly efficient.",
+        "options": [
+            "The city's public transportation is highly effective, even though it appears disorganized.",
+            "The disorganized nature of the city's public transit system has led to a decrease in its efficiency.",
+            "It is astonishing that the city managed to build such an efficient public transportation network in a haphazard way.",
+            "The city's public transportation network was intentionally designed to look chaotic but operate efficiently."
+        ],
+        "correct_index": 0,
+        "explanation": "המילה 'haphazard' (אקראי/לא מאורגן) מוחלפת ב-'disorganized'. הביטוי 'astonishingly efficient' (יעיל להפליא) מוחלף ב-'highly effective'. התשובה הנכונה שומרת על מבנה הניגוד (Despite מומר ל-even though)."
+    },
+    {
+        "id": "rs_002",
+        "original": "The sheer volume of empirical data supporting the theory renders it virtually indisputable.",
+        "options": [
+            "The theory is difficult to prove due to the overwhelming amount of empirical data required.",
+            "Because there is such a massive amount of evidence backing it, the theory is almost impossible to contradict.",
+            "The sheer amount of data makes it virtually impossible to fully understand the theory.",
+            "Although there is empirical data supporting the theory, many still dispute its validity."
+        ],
+        "correct_index": 1,
+        "explanation": "'sheer volume' (כמות עצומה) מוחלף ב-'massive amount'. 'renders it virtually indisputable' (הופך אותה לבלתי ניתנת לערעור כמעט) מומר ל-'almost impossible to contradict'."
+    },
+    {
+        "id": "rs_003",
+        "original": "Many contemporary architects eschew traditional ornamental designs in favor of minimalist aesthetics.",
+        "options": [
+            "Traditional ornamental designs are being preserved by contemporary architects who appreciate minimalism.",
+            "A large number of modern architects reject classic decorative elements, preferring a simple and unadorned style instead.",
+            "Minimalist aesthetics have been heavily influenced by the traditional ornamental designs used by modern architects.",
+            "Contemporary architects often combine minimalist aesthetics with traditional decorative designs."
+        ],
+        "correct_index": 1,
+        "explanation": "הפועל 'eschew' (להימנע מ/לדחות) מוחלף ב-'reject'. 'ornamental' (קישוטי) מוחלף ב-'decorative'. 'minimalist aesthetics' מקביל ל-'simple and unadorned style'."
+    },
+    {
+        "id": "rs_004",
+        "original": "Unless the government implements stringent economic reforms, rampant inflation will continue to erode the citizens' purchasing power.",
+        "options": [
+            "The citizens' purchasing power will inevitably decrease, regardless of the economic reforms implemented by the government.",
+            "Rampant inflation has forced the government to introduce strict economic reforms to protect citizens' purchasing power.",
+            "If the government fails to apply strict economic changes, severe inflation will keep diminishing what the public can afford to buy.",
+            "By implementing stringent economic reforms, the government has successfully stopped inflation from eroding purchasing power."
+        ],
+        "correct_index": 2,
+        "explanation": "המבנה התנאי 'Unless... will continue' מומר ל-'If... fails to... will keep'. 'stringent' (נוקשה) הופך ל-'strict'. 'erode' (לשחוק) מתורגם רעיונית ל-'diminishing what the public can afford to buy'."
+    },
+    {
+        "id": "rs_005",
+        "original": "The author's latest novel is a compelling, albeit somewhat convoluted, exploration of human morality.",
+        "options": [
+            "The author's newest book is a fascinating but rather complicated examination of human ethics.",
+            "In her latest novel, the author completely avoids discussing human morality due to its convoluted nature.",
+            "The exploration of human morality in the author's new novel is confusing and consequently uninteresting.",
+            "The author's latest novel is highly praised for its straightforward and compelling approach to human morality."
+        ],
+        "correct_index": 0,
+        "explanation": "'compelling' (מרתק) מומר ל-'fascinating'. 'albeit' (אם כי/למרות ש) מוחלף ב-'but'. 'convoluted' (מפותל/מסובך) מוחלף ב-'complicated'."
+    },
+    {
+        "id": "rs_006",
+        "original": "Prolonged exposure to the sun's ultraviolet rays is detrimental to the skin and can accelerate the aging process.",
+        "options": [
+            "The aging process can be slowed down by avoiding exposure to the sun's ultraviolet rays.",
+            "Skin damage and rapid aging are inevitable consequences of spending time in the sun.",
+            "Spending excessive amounts of time in the sun harms the skin and may cause it to age more quickly.",
+            "The sun's ultraviolet rays are the primary cause of skin disease and premature aging."
+        ],
+        "correct_index": 2,
+        "explanation": "'Prolonged exposure' (חשיפה ממושכת) הופך ל-'Spending excessive amounts of time'. 'detrimental' (מזיק) שקול ל-'harms'. 'accelerate' (להאיץ) מומר ל-'cause it to age more quickly'."
+    },
+    {
+        "id": "rs_007",
+        "original": "The CEO was ousted by the board of directors following a series of highly publicized financial blunders.",
+        "options": [
+            "The board of directors resigned after the CEO made several very public financial mistakes.",
+            "Following several major financial successes, the CEO was highly praised by the board of directors.",
+            "The CEO decided to step down due to the excessive publicity surrounding the company's financial issues.",
+            "The board of directors dismissed the CEO after he committed a number of well-known financial errors."
+        ],
+        "correct_index": 3,
+        "explanation": "הפועל 'ousted' (הודח/סולק - מופיע הרבה בפסיכומטרי) מוחלף ב-'dismissed'. 'blunders' (טעויות קריטיות) מומר ל-'errors'. 'highly publicized' הופך ל-'well-known'. שים לב שמסיח 1 הופך את היוצרות (הבורד התפטר במקום המנכ\"ל)."
+    },
+    {
+        "id": "rs_008",
+        "original": "Contrary to popular belief, bats are not blind; in fact, many species possess excellent night vision.",
+        "options": [
+            "It is a common misconception that bats cannot see, when actually many of them see very well in the dark.",
+            "Because bats have excellent night vision, people mistakenly believe that they are blind.",
+            "Popular belief suggests that bats are blind, which is true for most species despite their excellent night vision.",
+            "While some bats are blind, the vast majority possess excellent night vision, contrary to what many believe."
+        ],
+        "correct_index": 0,
+        "explanation": "'Contrary to popular belief' (בניגוד לאמונה הרווחת) הופך ל-'It is a common misconception' (תפיסה שגויה נפוצה). 'not blind' מומר ל-'cannot see'. 'night vision' מוסבר כ-'see very well in the dark'."
+    },
+    {
+        "id": "rs_009",
+        "original": "The treaty was initially hailed as a diplomatic triumph, yet it ultimately failed to yield lasting peace.",
+        "options": [
+            "The treaty was considered a massive failure from the beginning because it did not result in peace.",
+            "Although it was originally celebrated as a great political success, the agreement did not produce enduring peace in the end.",
+            "The diplomatic triumph was short-lived because the treaty was completely ignored by both sides.",
+            "Ultimately, the treaty succeeded in bringing about lasting peace, despite initial doubts about its diplomatic value."
+        ],
+        "correct_index": 1,
+        "explanation": "'initially hailed' (הוערך/שובח בתחילה) מומר ל-'originally celebrated'. 'diplomatic triumph' (ניצחון דיפלומטי) = 'great political success'. 'lasting peace' (שלום בר-קיימא) = 'enduring peace'."
+    },
+    {
+        "id": "rs_010",
+        "original": "Many educators contend that rote memorization is an obsolete pedagogical method that stifles creativity.",
+        "options": [
+            "Memorization is still considered by many educators to be the most effective way to foster creativity in students.",
+            "A large number of teachers argue that learning by repetition is an outdated teaching technique which suppresses originality.",
+            "Educators believe that creative teaching methods are making rote memorization obsolete.",
+            "Despite its obsolescence, rote memorization is frequently used by teachers who want to encourage creativity."
+        ],
+        "correct_index": 1,
+        "explanation": "'contend' (טוענים) = 'argue'. 'rote memorization' (שינון בעל פה) = 'learning by repetition'. 'obsolete pedagogical method' (שיטת הוראה מיושנת) = 'outdated teaching technique'. 'stifles' (חונק/מדכא) = 'suppresses'."
+    },
+    {
+        "id": "rs_011",
+        "original": "The new policy was implemented to mitigate the adverse repercussions of the economic downturn.",
+        "options": [
+            "The economic downturn was caused by the adverse effects of the new policy.",
+            "To lessen the negative consequences of the economic decline, the new policy was put into effect.",
+            "The new policy completely eliminated the economic problems it was designed to solve.",
+            "Despite the new policy, the economic downturn continued to have severe repercussions."
+        ],
+        "correct_index": 1,
+        "explanation": "הפועל 'mitigate' (להפחית/למתן) שקול ל-'lessen'. 'adverse repercussions' (השלכות שליליות) מומר ל-'negative consequences'. ו-'economic downturn' (האטה כלכלית) מוחלף ב-'economic decline'."
+    },
+    {
+        "id": "rs_012",
+        "original": "The ubiquity of smartphones has rendered standalone digital cameras virtually obsolete.",
+        "options": [
+            "Smartphones have become so widespread that standalone digital cameras are now almost entirely outdated.",
+            "Despite the popularity of smartphones, digital cameras remain ubiquitous in modern society.",
+            "Standalone digital cameras are becoming obsolete because they cannot connect to smartphones.",
+            "The high cost of smartphones has led many people to rely on standalone digital cameras instead."
+        ],
+        "correct_index": 0,
+        "explanation": "המילה 'ubiquity' (נוכחות בכל מקום) מומרת ל-'widespread' (נפוץ). 'rendered' (הפך ל) מוחלף ב-'have become'. המילה החשובה 'obsolete' (מיושן/שעבר זמנו) שקולה ל-'outdated'."
+    },
+    {
+        "id": "rs_013",
+        "original": "The scientist was reluctant to concede that her groundbreaking theory contained a fundamental flaw.",
+        "options": [
+            "The scientist eagerly admitted that there was a major mistake in her new theory.",
+            "It was difficult to find the fundamental flaw in the scientist's groundbreaking theory.",
+            "The scientist hesitated to admit that there was a basic error in her innovative theory.",
+            "Because her theory was groundbreaking, the scientist refused to believe it had any flaws."
+        ],
+        "correct_index": 2,
+        "explanation": "'reluctant' (מסתייג/לא שש) הופך ל-'hesitated' (היססה). הפועל 'concede' (להודות ב-) מומר ל-'admit'. 'fundamental flaw' (פגם בסיסי) שקול ל-'basic error'."
+    },
+    {
+        "id": "rs_014",
+        "original": "The prime minister's inflammatory remarks only served to exacerbate the already volatile situation.",
+        "options": [
+            "The volatile situation caused the prime minister to make inflammatory remarks.",
+            "The prime minister's calming words helped to stabilize the highly explosive situation.",
+            "The already unstable situation was made even worse by the prime minister's provocative comments.",
+            "Although the situation was volatile, the prime minister's remarks had little effect on it."
+        ],
+        "correct_index": 2,
+        "explanation": "המילה 'exacerbate' (להחמיר) מתורגמת כ-'made even worse'. 'inflammatory remarks' (הערות מתסיסות) מוחלף ב-'provocative comments'. 'volatile' (נפיץ/הפכפך) מומר ל-'unstable'."
+    },
+    {
+        "id": "rs_015",
+        "original": "The sheer cost of the initial investment deterred many entrepreneurs from pursuing the otherwise lucrative endeavor.",
+        "options": [
+            "Many entrepreneurs avoided the highly profitable venture simply because of the massive upfront expense.",
+            "The endeavor was so lucrative that entrepreneurs were willing to overlook the high initial investment.",
+            "Because the initial investment was so low, many entrepreneurs were attracted to the lucrative endeavor.",
+            "Despite the massive upfront expense, a large number of entrepreneurs pursued the venture."
+        ],
+        "correct_index": 0,
+        "explanation": "הפועל 'deterred' (הרתיע) מומר ל-'avoided'. 'lucrative' (רווחי/משתלם) שקול ל-'highly profitable'. 'initial investment' (השקעה ראשונית) מוחלף ב-'upfront expense'."
+    },
+    {
+        "id": "rs_016",
+        "original": "The ambiguous wording of the contract left it open to multiple interpretations, preventing a clear consensus.",
+        "options": [
+            "A clear consensus was reached because the contract was written in such an ambiguous manner.",
+            "The contract was easy to understand, which led to multiple interpretations and a clear consensus.",
+            "Because the contract was phrased vaguely, it could be understood in various ways, making it impossible to reach an agreement.",
+            "The multiple interpretations of the contract helped the parties quickly reach a consensus."
+        ],
+        "correct_index": 2,
+        "explanation": "'ambiguous' (דו-משמעי/מעורפל) מומר ל-'phrased vaguely'. 'multiple interpretations' מתואר כ-'understood in various ways'. 'consensus' (הסכמה/קונצנזוס) מומר ל-'reach an agreement'."
+    },
+    {
+        "id": "rs_017",
+        "original": "The value of the artwork derives solely from its historical significance rather than its intrinsic aesthetic appeal.",
+        "options": [
+            "The artwork is considered valuable primarily because of its beauty, not its history.",
+            "The historical importance of the artwork, combined with its beauty, makes it incredibly valuable.",
+            "The piece of art is prized exclusively for its historical importance, not for its natural beauty.",
+            "Despite its lack of historical significance, the artwork's intrinsic beauty makes it very valuable."
+        ],
+        "correct_index": 2,
+        "explanation": "המילה 'solely' (אך ורק) שקולה ל-'exclusively'. 'intrinsic' (טבוע/פנימי) מומר ל-'natural', ו-'aesthetic appeal' מוחלף בפשטות ב-'beauty'."
+    },
+    {
+        "id": "rs_018",
+        "original": "Progress on the construction project was significantly hindered by cumbersome bureaucratic regulations.",
+        "options": [
+            "The construction project advanced rapidly due to the efficient bureaucratic regulations.",
+            "Awkward and complex administrative rules greatly slowed down the advancement of the building project.",
+            "The construction workers found a way to bypass the cumbersome regulations and speed up the project.",
+            "Bureaucratic regulations were implemented to hinder the progress of the dangerous construction project."
+        ],
+        "correct_index": 1,
+        "explanation": "הפועל 'hindered' (עוכב/הופרע) מומר ל-'slowed down'. המילה 'cumbersome' (מסורבל) מוחלפת ב-'Awkward and complex'. 'regulations' (תקנות) מומר ל-'rules'."
+    },
+    {
+        "id": "rs_019",
+        "original": "Close scrutiny of the financial documents revealed several alarming discrepancies.",
+        "options": [
+            "A careful examination of the financial records uncovered a number of worrying inconsistencies.",
+            "The alarming discrepancies in the financial documents were hidden from public scrutiny.",
+            "Despite close inspection, no errors were found in the financial documents.",
+            "The financial documents were deliberately altered to conceal several alarming discrepancies."
+        ],
+        "correct_index": 0,
+        "explanation": "'scrutiny' (בדיקה קפדנית) הופכת ל-'careful examination'. 'revealed' (חשף) שקול ל-'uncovered'. 'alarming' (מדאיג) הופך ל-'worrying', והמילה הפסיכומטרית 'discrepancies' (סתירות/אי-התאמות) שקולה ל-'inconsistencies'."
+    },
+    {
+        "id": "rs_020",
+        "original": "Realizing that further negotiation would be futile, the diplomats were compelled to abandon their peace efforts.",
+        "options": [
+            "The diplomats continued their peace efforts even though they knew the negotiations were futile.",
+            "Because they understood that continuing to talk would be pointless, the diplomats were forced to give up their attempts to make peace.",
+            "The peace efforts were abandoned because the diplomats refused to participate in futile negotiations.",
+            "By compelling the diplomats to abandon their efforts, the negotiations became completely futile."
+        ],
+        "correct_index": 1,
+        "explanation": "המילה 'futile' (חסר תוחלת/עקר) מוחלפת ב-'pointless'. הפועל 'compelled' (אולצו) שקול ל-'forced'. 'abandon' (לנטוש/לוותר) הופך ל-'give up'."
+    },
+    {
+        "id": "rs_021",
+        "original": "The researcher failed to provide sufficient empirical evidence to substantiate her controversial claims.",
+        "options": [
+            "The controversial claims made by the researcher were proven true by a massive amount of empirical data.",
+            "The researcher could not back up her debatable assertions with enough observational data.",
+            "Sufficient empirical evidence is rarely provided to substantiate controversial claims in research.",
+            "Despite the lack of empirical evidence, the researcher's claims were widely accepted."
+        ],
+        "correct_index": 1,
+        "explanation": "הפועל 'substantiate' (לאשש/לבסס) שקול ל-'back up'. 'claims' מומר ל-'assertions'. 'empirical' (אמפירי/מבוסס תצפיות) הופך ל-'observational'."
+    },
+    {
+        "id": "rs_022",
+        "original": "The invention of the printing press had a profound and inevitable impact on the spread of literacy.",
+        "options": [
+            "The printing press was invented primarily to stop the inevitable decline of literacy.",
+            "It was unavoidable that the creation of the printing press would deeply affect the expansion of the ability to read and write.",
+            "The spread of literacy had a profound impact on the eventual invention of the printing press.",
+            "Despite its profound impact, the printing press did not inevitably lead to widespread literacy."
+        ],
+        "correct_index": 1,
+        "explanation": "המילה 'profound' (עמוק/רב-משמעות) הופכת ל-'deeply affect'. המילה 'inevitable' (בלתי נמנע) מומרת ל-'unavoidable'. 'literacy' (אוריינות/ידיעת קרוא וכתוב) מתורגמת ל-'ability to read and write'."
+    },
+    {
+        "id": "rs_023",
+        "original": "His relentless pursuit of wealth came at the detriment of his physical health and personal relationships.",
+        "options": [
+            "His physical health and personal relationships improved as a result of his relentless pursuit of wealth.",
+            "He pursued wealth relentlessly in order to improve his physical health and personal relationships.",
+            "His unending chase after money caused harm to both his physical well-being and his connections with others.",
+            "Despite the detriment to his health, his personal relationships benefited from his pursuit of wealth."
+        ],
+        "correct_index": 2,
+        "explanation": "'relentless pursuit' (מרדף חסר פשרות) שקול ל-'unending chase'. 'detriment' (נזק/פגיעה) הופך ל-'caused harm'. 'relationships' (מערכות יחסים) מומר ל-'connections with others'."
+    },
+    {
+        "id": "rs_024",
+        "original": "The smartphone has become an indispensable tool in modern life due to its incredible versatility.",
+        "options": [
+            "Because it can perform so many different functions, the smartphone is now an essential device in today's world.",
+            "The incredible versatility of the smartphone makes it an interesting but ultimately unnecessary tool.",
+            "Modern life has become indispensable because of the versatile tools provided by the smartphone.",
+            "Only a few people find the smartphone to be an indispensable tool, despite its versatility."
+        ],
+        "correct_index": 0,
+        "explanation": "המילה הקריטית 'indispensable' (שלא ניתן לוותר עליו) הופכת ל-'essential'. 'versatility' (רב-גוניות/ורסטיליות) מתורגמת ל-'can perform so many different functions'."
+    },
+    {
+        "id": "rs_025",
+        "original": "The significance of his early achievements was somewhat diminished when overshadowed by his later, more famous discoveries.",
+        "options": [
+            "His early achievements were so significant that they overshadowed all of his later discoveries.",
+            "His later discoveries became famous because they diminished the significance of his early work.",
+            "The importance of his first accomplishments was somewhat reduced because his subsequent findings received so much more attention.",
+            "Despite his later famous discoveries, his early achievements never lost their significance."
+        ],
+        "correct_index": 2,
+        "explanation": "המילה 'diminished' (פחת/הוקטן) שקולה ל-'reduced'. הפועל 'overshadowed' (הוטל צל עליהם/הועמו) מוסבר כ-'received so much more attention'. 'achievements' הופך ל-'accomplishments'."
+    }
+]

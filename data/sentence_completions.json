@@ -1,0 +1,162 @@
+[
+    {
+        "id": "sc_001",
+        "type": "vocabulary",
+        "sentence": "The discovery of penicillin was a major _____ in the field of medicine, saving countless lives.",
+        "options": ["breakthrough", "setback", "illusion", "compromise"],
+        "correct_index": 0,
+        "explanation": "המילה 'breakthrough' (פריצת דרך) מתאימה להקשר של תגלית שהצילה חיים. (setback - נסיגה/עיכוב, illusion - אשליה, compromise - פשרה)."
+    },
+    {
+        "id": "sc_002",
+        "type": "vocabulary",
+        "sentence": "Many critics argue that the director's latest film is too _____, lacking a clear and cohesive plot.",
+        "options": ["profound", "fragrant", "obscure", "legitimate"],
+        "correct_index": 2,
+        "explanation": "הסרט חסר עלילה ברורה, לכן הוא 'obscure' (מעורפל / לא ברור). (profound - עמוק, fragrant - ריחני, legitimate - חוקי/לגיטימי)."
+    },
+    {
+        "id": "sc_003",
+        "type": "vocabulary",
+        "sentence": "Due to the severe economic crisis, the company had no choice but to _____ hundreds of loyal employees.",
+        "options": ["promote", "dismiss", "cherish", "inherit"],
+        "correct_index": 1,
+        "explanation": "בגלל המשבר הכלכלי, החברה נאלצה 'dismiss' (לפטר / לשחרר) עובדים. (promote - לקדם, cherish - להוקיר, inherit - לרשת)."
+    },
+    {
+        "id": "sc_004",
+        "type": "vocabulary",
+        "sentence": "Some species of frogs secrete a deadly toxin to _____ predators from attacking them.",
+        "options": ["attract", "deter", "nourish", "summon"],
+        "correct_index": 1,
+        "explanation": "צפרדעים מפרישות רעלן קטלני כדי 'deter' (להרתיע) טורפים. (attract - למשוך, nourish - להזין, summon - לזמן/לקרוא)."
+    },
+    {
+        "id": "sc_005",
+        "type": "vocabulary",
+        "sentence": "The rebel leader's passionate speech managed to _____ the crowd, leading to a massive protest in the capital.",
+        "options": ["pacify", "ignite", "conceal", "evaluate"],
+        "correct_index": 1,
+        "explanation": "הנאום מלא התשוקה הצליח 'ignite' (להצית / לשלהב) את הקהל. (pacify - להרגיע/לפייס, conceal - להסתיר, evaluate - להעריך)."
+    },
+    {
+        "id": "sc_006",
+        "type": "morphology",
+        "sentence": "The manager was highly impressed by the candidate's _____ to solve complex problems under pressure.",
+        "options": ["able", "ability", "ably", "disable"],
+        "correct_index": 1,
+        "explanation": "אחרי שייכות (candidate's - ה__ של המועמד) נדרש שם עצם (Noun). 'ability' (יכולת). 'able' (מסוגל - שם תואר)."
+    },
+    {
+        "id": "sc_007",
+        "type": "morphology",
+        "sentence": "To ensure the experiment's results are valid, all measurements must be recorded _____.",
+        "options": ["accuracy", "accurate", "accurately", "inaccuracies"],
+        "correct_index": 2,
+        "explanation": "המילה החסרה מתארת כיצד הוקלטו המדידות (מתארת את הפועל recorded), ולכן נדרש תואר הפועל (Adverb) שמסתיים לרוב ב-ly. 'accurately' (באופן מדויק)."
+    },
+    {
+        "id": "sc_008",
+        "type": "morphology",
+        "sentence": "The company's sudden bankruptcy was entirely _____, catching even the financial analysts by surprise.",
+        "options": ["predict", "prediction", "predictable", "unpredictable"],
+        "correct_index": 3,
+        "explanation": "לפי ההקשר, פשיטת הרגל תפסה את האנליסטים בהפתעה, ולכן היא הייתה \"בלתי צפויה\". נדרש שם תואר מתאים: 'unpredictable'. (predictable - צפוי)."
+    },
+    {
+        "id": "sc_009",
+        "type": "morphology",
+        "sentence": "Studies show that children who read frequently tend to have a more _____ vocabulary than those who do not.",
+        "options": ["extend", "extensive", "extensively", "extension"],
+        "correct_index": 1,
+        "explanation": "המילה מתארת את שם העצם vocabulary (אוצר מילים), ולכן נדרש שם תואר (Adjective). התשובה היא 'extensive' (מקיף/נרחב)."
+    },
+    {
+        "id": "sc_010",
+        "type": "morphology",
+        "sentence": "Environmentalists emphasize the vital _____ of preserving natural habitats for endangered species.",
+        "options": ["important", "importantly", "importance", "unimportant"],
+        "correct_index": 2,
+        "explanation": "אחרי ה' הידיעה ושם התואר (the vital), אנחנו זקוקים לשם עצם (Noun). 'importance' (חשיבות)."
+    },
+  {
+        "id": "sc_011",
+        "type": "vocabulary",
+        "sentence": "The sudden power outage caused a temporary _____ in the server's operation.",
+        "options": ["disruption", "legacy", "hypothesis", "altitude"],
+        "correct_index": 0,
+        "explanation": "המילה 'disruption' (שיבוש/הפרעה) מתאימה להקשר של הפסקת חשמל שפוגעת בפעילות השרת. (legacy - מורשת, hypothesis - השערה, altitude - גובה)."
+    },
+    {
+        "id": "sc_012",
+        "type": "vocabulary",
+        "sentence": "Certain species of birds _____ to warmer climates before the onset of winter.",
+        "options": ["fluctuate", "migrate", "provoke", "resent"],
+        "correct_index": 1,
+        "explanation": "ציפורים 'migrate' (נודדות) לאקלים חם יותר לפני החורף. (fluctuate - להתנדנד/לעלות ולרדת, provoke - לעורר/להתגרות, resent - להתרעם/לכעוס)."
+    },
+    {
+        "id": "sc_013",
+        "type": "vocabulary",
+        "sentence": "The ancient manuscript was so fragile that it had to be handled with the utmost _____.",
+        "options": ["negligence", "hostility", "care", "despair"],
+        "correct_index": 2,
+        "explanation": "כתב יד שביר (fragile) חייב להיות מטופל בזהירות רבה ('utmost care'). (negligence - רשלנות, hostility - עוינות, despair - ייאוש)."
+    },
+    {
+        "id": "sc_014",
+        "type": "vocabulary",
+        "sentence": "The new legislation is intended to _____ the rights of minority groups in the workplace.",
+        "options": ["suppress", "safeguard", "condemn", "exploit"],
+        "correct_index": 1,
+        "explanation": "חקיקה שנועדה 'safeguard' (להגן / לשמור על) זכויות מיעוטים. (suppress - לדכא, condemn - לגנות, exploit - לנצל)."
+    },
+    {
+        "id": "sc_015",
+        "type": "vocabulary",
+        "sentence": "Despite the heavy rain, the loyal fans remained _____ in their support for the team.",
+        "options": ["hesitant", "steadfast", "vulnerable", "obsolete"],
+        "correct_index": 1,
+        "explanation": "האוהדים נשארו 'steadfast' (איתנים / יציבים) בתמיכתם למרות הגשם. (hesitant - מהסס, vulnerable - פגיע, obsolete - מיושן)."
+    },
+    {
+        "id": "sc_016",
+        "type": "morphology",
+        "sentence": "The committee will _____ review all the applications before making a final decision.",
+        "options": ["thorough", "thoroughly", "thoroughness", "thoroughs"],
+        "correct_index": 1,
+        "explanation": "המילה החסרה מתארת את הפועל 'review' (לסקור), ולכן אנו זקוקים לתואר הפועל (Adverb). התשובה היא 'thoroughly' (באופן יסודי). thorough = יסודי (שם תואר)."
+    },
+    {
+        "id": "sc_017",
+        "type": "morphology",
+        "sentence": "The professor was widely praised for the absolute _____ of his lecture on quantum physics.",
+        "options": ["clear", "clearly", "clarity", "clarify"],
+        "correct_index": 2,
+        "explanation": "אחרי ה' הידיעה ושם התואר 'absolute' (the absolute ___), נדרש שם עצם (Noun). 'clarity' (בהירות). clear = ברור (תואר), clarify = להבהיר (פועל)."
+    },
+    {
+        "id": "sc_018",
+        "type": "morphology",
+        "sentence": "The primary goal of the marketing campaign is to _____ brand awareness among young consumers.",
+        "options": ["height", "heighten", "high", "highly"],
+        "correct_index": 1,
+        "explanation": "אחרי המילה 'to' (is to...) אנחנו צריכים פועל במקור (Infinitive). הפועל הוא 'heighten' (להגביר / להעלות). height = גובה (שם עצם), high = גבוה (תואר)."
+    },
+    {
+        "id": "sc_019",
+        "type": "morphology",
+        "sentence": "Investing in renewable energy sources is considered a financially _____ decision in the long run.",
+        "options": ["sound", "soundly", "soundness", "sounded"],
+        "correct_index": 0,
+        "explanation": "המילה מתארת את שם העצם 'decision' (החלטה), ולכן נדרש שם תואר (Adjective). 'sound' בהקשר הזה משמעותו 'הגיוני' או 'מבוסס'. (soundly = באופן מבוסס, soundness = יציבות)."
+    },
+    {
+        "id": "sc_020",
+        "type": "morphology",
+        "sentence": "The _____ of the new bridge will significantly reduce traffic congestion in the city center.",
+        "options": ["construct", "constructive", "construction", "constructively"],
+        "correct_index": 2,
+        "explanation": "המשפט מתחיל בנושא של המשפט, אחרי 'The', ולכן חסר לנו שם עצם (Noun). 'construction' (בנייה). construct = לבנות (פועל), constructive = בונה/מועיל (תואר)."
+    }
+]
